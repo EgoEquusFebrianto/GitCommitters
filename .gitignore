@@ -16,3 +16,8 @@ Thumbs.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+server/*
+k8s/*
+db/*
+.gitignore
